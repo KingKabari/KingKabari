@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingKabari
-- 👀 I’m interested in programming and mechanics 
-- 🌱 I’m currently learning programming 
+- 👀 I’m interested in  mechanics 
+- 🌱 I’m currently learning Front end Web develpment 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me IG @king_kabari_
 - 😄 Pronouns: ...
