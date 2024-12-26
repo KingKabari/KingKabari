@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingKabari
 - 👀 I’m interested in  mechanics 
-- 🌱 I’m currently learning Javascript with TOP 
+- 🌱 I’m currently learning Ruby with TOP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me IG @king_kabari_
 - 😄 Pronouns: ...
