@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KingKabari
 - 👀 I’m interested in  mechanics 
-- 🌱 I’m currently learning Ruby with TOP 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently on my full-stack path with TOP 
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me IG @king_kabari_
 - 😄 Pronouns: ...
 - ⚡ Fun fact: love french fries 
