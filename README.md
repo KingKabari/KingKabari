@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kabari
 - 👀 I’m interested in  mechanics 
-- 🌱 I’m currently learning DevOps ad Cloud Computing principles
+- 🌱 I’m currently learning DevOps and Cloud Computing principles
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: DON'T lol
 - ⚡ Fun fact: I'm no fun
