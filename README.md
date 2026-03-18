@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @KingKabari
+- 👋 Hi, I’m Kabari
 - 👀 I’m interested in  mechanics 
-- 🌱 I’m currently on my full-stack path with TOP 
+- 🌱 I’m currently learning DevOps ad Cloud Computing principles
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me IG @king_kabari_
-- 😄 Pronouns: ...
-- ⚡ Fun fact: love french fries 
+- 📫 How to reach me: DONT lol
+- ⚡ Fun fact: I'm no fun
+- 📙 Favorite Novel: Crime & Punishment - Fyodor Dostoevsky
 
 <!---
 KingKabari/KingKabari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
