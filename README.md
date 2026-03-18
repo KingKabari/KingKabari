@@ -2,7 +2,7 @@
 - 👀 I’m interested in  mechanics 
 - 🌱 I’m currently learning DevOps ad Cloud Computing principles
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: DONT lol
+- 📫 How to reach me: DON'T lol
 - ⚡ Fun fact: I'm no fun
 - 📙 Favorite Novel: Crime & Punishment - Fyodor Dostoevsky
 
