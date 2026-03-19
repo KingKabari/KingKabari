@@ -1,10 +1,122 @@
-- 👋 Hi, I’m Kabari
-- 👀 I’m interested in  mechanics 
-- 🌱 I’m currently learning DevOps and Cloud Computing principles
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: DON'T lol
-- ⚡ Fun fact: I'm no fun
-- 📙 Favorite Novel: Crime & Punishment - Fyodor Dostoevsky
+<h3 align="center">
+  Kabari@github:~$ <span> █ </span>
+</h3>
+
+<p align="center">
+DevOps • Cloud-Native • Community-Oriented
+</p>
+
+---
+```bash
+run → kabari --help
+```
+
+---
+
+```bash
+$ kabari --help
+
+usage: kabari [command]
+
+commands:
+  --whoami        basic identity
+  --path          current direction
+  --stack         tools & technologies
+  --certs         verification
+  --impact        community + presence
+  --loop          how I operate
+```
+
+---
+
+```bash
+$ whoami
+kabari
+
+$ focus --current
+cloud + devops
+
+$ background
+javascript foundations 
+
+$ status
+building across layers
+```
+
+---
+
+```bash
+$ kabari --path
+
+code        → logic, structure, control  
+cloud       → infrastructure, systems, scale  
+devops      → automation, flow, reliability   
+```
+---
+
+```bash
+$ kabari --stack 
+
+> base
+JavaScript (logic, DOM, async thinking)
+
+> cloud
+AWS (architecture, data lakes, migration, core services)
+IBM (service models, deployment, cloud infrastructure, networking )
+
+> devops
+Git / GitHub
+Linux
+CI/CD 
+
+> ops_tools
+Airtable
+Google Workspace
+```
+
+---
+
+```bash
+$ kabari --certs
+
+aws-cloud-technical-essentials 
+architecting-solutions-on-aws 
+
+$ verify --source
+https://www.linkedin.com/in/Kabari-Dumk-profile
+```
+
+---
+
+```bash
+$ kabari --impact
+
+Volunteer →  [bloomingheartsfoundation.com](https://www.bloomingheartsfoundation.com/)
+
+Member    →  [shecodeafrica.org](https://shecodeafrica.org/)
+
+
+Focus → Digital Literacy + Access to Opportunity  
+
+Community Portfolio → [kabari-community-manager.my.canva.site](https://kabari-community-manager.my.canva.site/) 
+```
+
+---
+
+```bash
+$ kabari --loop
+
+while (learning) {
+  build()
+  break()
+  improve()
+  support_others()
+}
+```
+
+---
+
+
 
 <!---
 KingKabari/KingKabari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
