@@ -98,7 +98,7 @@ Member    →  shecodeafrica.org
 
 Focus → Digital Literacy + Access to Opportunity  
 
-Community Portfolio → [kabari-community-manager.my.canva.site](https://kabari-community-manager.my.canva.site/) 
+Community Portfolio → kabari-community-manager.my.canva.site 
 ```
 
 ---
