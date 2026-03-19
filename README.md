@@ -91,9 +91,9 @@ https://www.linkedin.com/in/Kabari-Dumk-profile
 ```bash
 $ kabari --impact
 
-Volunteer →  [bloomingheartsfoundation.com](https://www.bloomingheartsfoundation.com/)
+Volunteer →  bloomingheartsfoundation.com
 
-Member    →  [shecodeafrica.org](https://shecodeafrica.org/)
+Member    →  shecodeafrica.org
 
 
 Focus → Digital Literacy + Access to Opportunity  
