@@ -62,7 +62,7 @@ JavaScript (logic, DOM, async thinking)
 
 > cloud
 AWS (architecture, data lakes, migration, core services)
-IBM (service models, deployment, cloud infrastructure, networking )
+IBM (service models, deployment, cloud infrastructure, networking)
 
 > devops
 Git / GitHub
